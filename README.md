@@ -1,7 +1,7 @@
 # COVID-19 Alberta 
-## Analysis & Visualization of COVID-19 in Alberta
+## Analysis & Visualization of COVID-19 in Alberta, Canada
 
-Using a Jupyter notebook, I get data from the from the **Government of Canada**'s [COVID-19 daily epidemiology update](https://health-infobase.canada.ca/covid-19/epidemiological-summary-covid-19-cases.html) and provide some analysis and visualization for COVID-19 cases in Alberta, Canada. 
+Using a Jupyter notebook, I get data from the from the **Government of Canada**'s [COVID-19 daily epidemiology update](https://health-infobase.canada.ca/covid-19/epidemiological-summary-covid-19-cases.html) and provide some analysis and visualization for COVID-19 cases in Alberta, Canada. The notebook is the file named [covid_alberta.ipynb](https://github.com/iamtonyarthur/covid19-alberta/blob/main/covid_alberta.ipynb).
 
 You can manually download the COVID-19 dataset from [here](https://health-infobase.canada.ca/src/data/covidLive/covid19-download.csv). It contains daily COVID-19 cases for the Canadian provinces and territories. 
 
@@ -45,8 +45,11 @@ You can also choose to upload and run the notebook on your local computer, AWS (
 ## Future work
 I may extend the notebook with additional analysis and also include a short-term forecasting model to predict COVID-19 trends in Alberta.
 
+## Blog post
+I feel strongly about the COVID-19 situation in Alberta. Read my 17 August 2021 blog post on [Alberta’s concerning approach to COVID-19 and its potential impact](https://skills4ever.com/albertas-concerning-approach-to-covid-19-and-its-potential-impact-12300e780e7b).
+
 ## Contact
 
-Creator: Tony Arthur. You can follow me or contact me via Twitter/**@iamtonyarthur**.
+Creator: Tony Arthur. You can follow me or contact me on Twitter/**@iamtonyarthur**.
 
 

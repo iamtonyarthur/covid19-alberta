@@ -52,7 +52,7 @@ You can also choose to upload and run the notebook on your local computer, AWS (
  - Daily COVID-19 cases by age group
 
 ## Future work
-I may extend the notebook with additional analysis and also include a short-term forecasting model to predict COVID-19 trends in Alberta.
+The notebook may be extended with additional analysis and/or a short-term forecasting model to predict COVID-19 trends in Alberta.
 
 ## Blog post
 I am passionate about the COVID-19 situation in Alberta. Read my 17 August 2021 blog post on [Alberta’s concerning approach to COVID-19 and its potential impact](https://skills4ever.com/albertas-concerning-approach-to-covid-19-and-its-potential-impact-12300e780e7b).
